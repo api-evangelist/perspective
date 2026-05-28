@@ -1,0 +1,32 @@
+aid: perspective
+name: Perspective
+description: "NLP API to return probability that if text is toxic, obscene, insulting or threatening"
+url: https://perspectiveapi.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: Perspective
+    description: "NLP API to return probability that if text is toxic, obscene, insulting or threatening"
+    humanURL: https://perspectiveapi.com
+    baseURL: https://perspectiveapi.com
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://perspectiveapi.com
+common:
+  - type: Website
+    url: https://perspectiveapi.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
