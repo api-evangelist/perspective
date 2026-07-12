@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://perspectiveapi.com
 common:
+  - type: DomainSecurity
+    url: security/perspective-domain-security.yml
   - type: Website
     url: https://perspectiveapi.com
   - type: PublicAPIsListing
