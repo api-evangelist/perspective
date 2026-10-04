@@ -33,20 +33,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: Perspective
     description: "NLP API to return probability that if text is toxic, obscene, insulting or threatening"
     humanURL: https://perspectiveapi.com
-    baseURL: https://perspectiveapi.com
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://perspectiveapi.com
